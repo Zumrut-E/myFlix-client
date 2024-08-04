@@ -1,11 +1,11 @@
-2584
+2588
+84C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\dist\unpacker\agents.js133660630806141231 0
+53C:\Users\zek\Desktop\myFlix-client\node_modules\chalk133660630799101233 1
+50C:\Users\zek\Desktop\myFlix-client\dist\index.html133672363071906804 0
+71C:\Users\zek\Desktop\myFlix-client\node_modules\sass\types\compile.d.ts133660630823261230 0
 80C:\Users\zek\Desktop\myFlix-client\node_modules\sass\types\legacy\exception.d.ts133660630823661233 0
 79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\KR.js133660630839731235 0
-<<<<<<< HEAD
-47C:\Users\zek\Desktop\myFlix-client\package.json133671116464590970 0
-=======
-47C:\Users\zek\Desktop\myFlix-client\package.json133666778549862648 0
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
+47C:\Users\zek\Desktop\myFlix-client\package.json133672021977236604 0
 67C:\Users\zek\Desktop\myFlix-client\node_modules\color-name\index.js133660630791141225 0
 45C:\Users\zek\Desktop\myFlix-client\.gitignore133660651829480863 0
 84C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\lib\summarizeRequest.js133660630829081234 0
@@ -14,17 +14,26 @@
 76C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\logger\src\Logger.js133660630794031223 0
 58C:\Users\zek\Desktop\myFlix-client\node_modules\is-extglob133660630794101237 1
 89C:\Users\zek\Desktop\myFlix-client\node_modules\source-map-js\lib\source-map-generator.js133660630802571229 0
-<<<<<<< HEAD
-39C:\Users\zek\Desktop\myFlix-client\dist133671116464521171 1
-49C:\Users\zek\Desktop\myFlix-client\src\components133671091335766289 1
+39C:\Users\zek\Desktop\myFlix-client\dist133672363073026873 1
+97C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133660630802201234 0
+63C:\Users\zek\Desktop\myFlix-client\node_modules\is-glob\LICENSE133660630788491223 0
+71C:\Users\zek\Desktop\myFlix-client\node_modules\@swc\types\package.json133660630801361229 0
+57C:\Users\zek\Desktop\myFlix-client\node_modules\is-number133660630794081245 1
+94C:\Users\zek\Desktop\myFlix-client\node_modules\electron-to-chromium\full-chromium-versions.js133660630794221248 0
+57C:\Users\zek\Desktop\myFlix-client\dist\index.b4b6dfad.js133672363072446810 0
+79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\YT.js133660630849121234 0
+89C:\Users\zek\Desktop\myFlix-client\node_modules\react-dom\umd\react-dom.production.min.js133660624922482230 0
+79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\MP.js133660630841601248 0
+79C:\Users\zek\Desktop\myFlix-client\node_modules\source-map-js\lib\quick-sort.js133660630799221236 0
+76C:\Users\zek\Desktop\myFlix-client\node_modules\sass\types\value\number.d.ts133660630825501234 0
+64C:\Users\zek\Desktop\myFlix-client\node_modules\chalk\index.d.ts133660630799691226 0
+61C:\Users\zek\Desktop\myFlix-client\dist\index.b4b6dfad.js.map133672363072696786 0
+93C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\permissions-api.js133660630843151227 0
+67C:\Users\zek\Desktop\myFlix-client\node_modules\micromatch\index.js133660630791161228 0
+95C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133660630831701236 0
+88C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\indexeddb2.js133660630838001227 0
 90C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\test\fixtures\invalid-targets133660630831661238 1
-52C:\Users\zek\Desktop\myFlix-client\package-lock.json133671116464571196 0
-=======
-39C:\Users\zek\Desktop\myFlix-client\dist133666804414651075 1
-49C:\Users\zek\Desktop\myFlix-client\src\components133665121614888162 1
-90C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\test\fixtures\invalid-targets133660630831661238 1
-52C:\Users\zek\Desktop\myFlix-client\package-lock.json133666778550642681 0
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
+52C:\Users\zek\Desktop\myFlix-client\package-lock.json133672021977216737 0
 86C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\lib\public\Environment.js133660630822871221 0
 92C:\Users\zek\Desktop\myFlix-client\node_modules\react\cjs\react.shared-subset.development.js133660624919372244 0
 47C:\Users\zek\Desktop\myFlix-client\node_modules133666778549692625 1
@@ -36,13 +45,10 @@
 100C:\Users\zek\Desktop\myFlix-client\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js133660630806491245 0
 67C:\Users\zek\Desktop\myFlix-client\node_modules\weak-lru-cache\dist133660630788471260 1
 44C:\Users\zek\Desktop\myFlix-client\README.md133660603695266146 0
-38C:\Users\zek\Desktop\myFlix-client\src133671116464681032 1
+38C:\Users\zek\Desktop\myFlix-client\src133672021977336683 1
+49C:\Users\zek\Desktop\myFlix-client\src\components133671091335766289 1
 88C:\Users\zek\Desktop\myFlix-client\node_modules\react-dom\cjs\react-dom.profiling.min.js133660624922662243 0
-<<<<<<< HEAD
-49C:\Users\zek\Desktop\myFlix-client\src\index.html133671116464640997 0
-=======
-49C:\Users\zek\Desktop\myFlix-client\src\index.html133666630520261603 0
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
+49C:\Users\zek\Desktop\myFlix-client\src\index.html133672021977296588 0
 95C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\css-text-box-trim.js133660630833231227 0
 87C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\wake-lock.js133660630847751236 0
 83C:\Users\zek\Desktop\myFlix-client\node_modules\utility-types\dist\utility-types.js133660630797551248 0
@@ -51,31 +57,24 @@
 63C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\watcher133660630798801247 1
 81C:\Users\zek\Desktop\myFlix-client\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133660630827121268 0
 86C:\Users\zek\Desktop\myFlix-client\node_modules\prop-types\factoryWithThrowingShims.js133666778548162663 0
-<<<<<<< HEAD
-49C:\Users\zek\Desktop\myFlix-client\src\index.scss133671116464681032 0
+49C:\Users\zek\Desktop\myFlix-client\src\index.scss133672021977336683 0
 75C:\Users\zek\Desktop\myFlix-client\node_modules\supports-color\package.json133660630794341233 0
 89C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\shadowdomv1.js133660630845541229 0
 95C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\template-literals.js133660630846451228 0
 104C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json133660630831481232 0
 79C:\Users\zek\Desktop\myFlix-client\node_modules\semver\ranges\min-satisfying.js133660630810901232 0
 60C:\Users\zek\Desktop\myFlix-client\src\components\login-view133671091470264445 1
-=======
-49C:\Users\zek\Desktop\myFlix-client\src\index.scss133666630520181626 0
-75C:\Users\zek\Desktop\myFlix-client\node_modules\supports-color\package.json133660630794341233 0
-89C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\shadowdomv1.js133660630845541229 0
-95C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\template-literals.js133660630846451228 0
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
 77C:\Users\zek\Desktop\myFlix-client\node_modules\source-map-js\source-map.d.ts133660630807021232 0
 91C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\css-scrollbar.js133660630832891234 0
 97C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr-extract\node_modules\detect-libc\LICENSE133660630788561237 0
 79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\TL.js133660630846781229 0
 66C:\Users\zek\Desktop\myFlix-client\node_modules\clone\package.json133660630788531240 0
-59C:\Users\zek\Desktop\myFlix-client\src\components\main-view133671116464600970 1
+59C:\Users\zek\Desktop\myFlix-client\src\components\main-view133672021977256611 1
 58C:\Users\zek\Desktop\myFlix-client\node_modules\fill-range133660630794091236 1
 74C:\Users\zek\Desktop\myFlix-client\node_modules\utility-types\CHANGELOG.md133660630804671235 0
 79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\DJ.js133660630834661225 0
 60C:\Users\zek\Desktop\myFlix-client\node_modules\browserslist133660630803641233 1
-60C:\Users\zek\Desktop\myFlix-client\src\components\movie-card133671116464621057 1
+60C:\Users\zek\Desktop\myFlix-client\src\components\movie-card133672021977286604 1
 107C:\Users\zek\Desktop\myFlix-client\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c133660630814371235 0
 83C:\Users\zek\Desktop\myFlix-client\node_modules\node-releases\data\release-schedule133660630796251230 1
 85C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\rellist.js133660630844181221 0
@@ -107,17 +106,10 @@
 90C:\Users\zek\Desktop\myFlix-client\node_modules\react\cjs\react-jsx-runtime.development.js133660624917402281 0
 75C:\Users\zek\Desktop\myFlix-client\src\components\movie-view\movie-view.jsx133665151312601693 0
 142C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\index.json133660630830971221 0
-<<<<<<< HEAD
-73C:\Users\zek\Desktop\myFlix-client\src\components\main-view\main-view.jsx133671116464600970 0
+73C:\Users\zek\Desktop\myFlix-client\src\components\main-view\main-view.jsx133672021977266612 0
 83C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\alt-oc.js133660630809891228 0
 85C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\dist\unpacker\feature.js133660630835701229 0
-75C:\Users\zek\Desktop\myFlix-client\src\components\movie-card\movie-card.jsx133671116464621057 0
-=======
-73C:\Users\zek\Desktop\myFlix-client\src\components\main-view\main-view.jsx133666803001381372 0
-83C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\alt-oc.js133660630809891228 0
-85C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\dist\unpacker\feature.js133660630835701229 0
-75C:\Users\zek\Desktop\myFlix-client\src\components\movie-card\movie-card.jsx133666804411450535 0
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
+75C:\Users\zek\Desktop\myFlix-client\src\components\movie-card\movie-card.jsx133672021977286604 0
 92C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\input-datetime.js133660630838101218 0
 89C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\utils\test\input\config\config.js133660630804871232 0
 71C:\Users\zek\Desktop\myFlix-client\node_modules\semver\ranges\subset.js133660630815061232 0
@@ -153,17 +145,6 @@
 65C:\Users\zek\Desktop\myFlix-client\node_modules\binary-extensions133660630797681224 1
 56C:\Users\zek\Desktop\myFlix-client\node_modules\lmdb\bin133660630827981226 1
 57C:\Users\zek\Desktop\myFlix-client\node_modules\@mischnic133660630776300441 1
-<<<<<<< HEAD
-=======
-102C:\Users\zek\Desktop\myFlix-client\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c133660630819171217 0
-97C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\rust\parcel-node-bindings.darwin-x64.node133660630833541229 0
-84C:\Users\zek\Desktop\myFlix-client\node_modules\utility-types\dist\mapped-types.d.ts133660630808621231 0
-86C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\wai-aria.js133660630847731227 0
-79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\BA.js133660630819691218 0
-81C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\ime.js133660630837811233 0
-59C:\Users\zek\Desktop\myFlix-client\node_modules\detect-libc133660630797151250 1
-65C:\Users\zek\Desktop\myFlix-client\node_modules\@msgpackr-extract133666778549762660 1
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
 61C:\Users\zek\Desktop\myFlix-client\node_modules\dotenv-expand133660630796171242 1
 70C:\Users\zek\Desktop\myFlix-client\node_modules\safe-buffer\index.d.ts133660630796161236 0
 81C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\lib\public\Bundle.js133660630813781231 0
@@ -171,17 +152,6 @@
 72C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\transformer-sass133660630795911245 1
 107C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\test\fixtures\application-targets\package.json133660630831051225 0
 100C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\css-content-visibility.js133660630830161233 0
-<<<<<<< HEAD
-=======
-71C:\Users\zek\Desktop\myFlix-client\node_modules\semver\ranges\subset.js133660630815061232 0
-72C:\Users\zek\Desktop\myFlix-client\node_modules\@swc\types\tsconfig.json133660630802281220 0
-53C:\Users\zek\Desktop\myFlix-client\node_modules\clone133660630797061216 1
-65C:\Users\zek\Desktop\myFlix-client\node_modules\source-map-js\lib133660630804581221 1
-56C:\Users\zek\Desktop\myFlix-client\node_modules\chokidar133660630801281229 1
-75C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\graph\src\BitSet.js133660630802431223 0
-77C:\Users\zek\Desktop\myFlix-client\node_modules\update-browserslist-db\cli.js133660630792801225 0
-52C:\Users\zek\Desktop\myFlix-client\node_modules\@swc133666778549722660 1
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
 72C:\Users\zek\Desktop\myFlix-client\node_modules\abortcontroller-polyfill133660630806071225 1
 82C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\webm.js133660630848511224 0
 73C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\src\requests133660630830921219 1
@@ -214,8 +184,6 @@
 54C:\Users\zek\Desktop\myFlix-client\node_modules\braces133660630802451231 1
 78C:\Users\zek\Desktop\myFlix-client\node_modules\lmdb\dependencies\lmdb-data-v1133660630788571224 1
 107C:\Users\zek\Desktop\myFlix-client\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133660630810221226 0
-84C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\dist\unpacker\agents.js133660630806141231 0
-53C:\Users\zek\Desktop\myFlix-client\node_modules\chalk133660630799101233 1
 74C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\workers\src\bus.js133660630796261228 0
 66C:\Users\zek\Desktop\myFlix-client\node_modules\chrome-trace-event133660630796991236 1
 79C:\Users\zek\Desktop\myFlix-client\node_modules\semver\ranges\max-satisfying.js133660630810621244 0
@@ -244,20 +212,15 @@
 68C:\Users\zek\Desktop\myFlix-client\node_modules\electron-to-chromium133660630806951232 1
 62C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\logger133660630796241236 1
 59C:\Users\zek\Desktop\myFlix-client\node_modules\glob-parent133660630795281232 1
-79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\LU.js133660630840601243 0
-62C:\Users\zek\Desktop\myFlix-client\node_modules\is-binary-path133660630795281232 1
-96C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\test\fixtures\main-mjs\package.json133660630831911242 0
-64C:\Users\zek\Desktop\myFlix-client\node_modules\is-glob\index.js133660630791161228 0
 78C:\Users\zek\Desktop\myFlix-client\node_modules\lmdb\bin\download-prebuilds.js133660630827991230 0
 65C:\Users\zek\Desktop\myFlix-client\node_modules\anymatch\index.js133660630791081246 0
 56C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr133660630824431241 1
 93C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\mutation-events.js133660630841851229 0
+62C:\Users\zek\Desktop\myFlix-client\node_modules\is-binary-path133660630795281232 1
+96C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\test\fixtures\main-mjs\package.json133660630831911242 0
+64C:\Users\zek\Desktop\myFlix-client\node_modules\is-glob\index.js133660630791161228 0
 57C:\Users\zek\Desktop\myFlix-client\node_modules\immutable133660630807831233 1
 71C:\Users\zek\Desktop\myFlix-client\node_modules\semver\functions\gte.js133660630805861231 0
-97C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133660630802201234 0
-63C:\Users\zek\Desktop\myFlix-client\node_modules\is-glob\LICENSE133660630788491223 0
-71C:\Users\zek\Desktop\myFlix-client\node_modules\@swc\types\package.json133660630801361229 0
-57C:\Users\zek\Desktop\myFlix-client\node_modules\is-number133660630794081245 1
 79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\MR.js133660630841711223 0
 65C:\Users\zek\Desktop\myFlix-client\node_modules\is-glob\README.md133660630794901248 0
 57C:\Users\zek\Desktop\myFlix-client\node_modules\js-tokens133660624916312222 1
@@ -309,11 +272,11 @@
 91C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\workers\test\integration\workerfarm133660630812761229 1
 68C:\Users\zek\Desktop\myFlix-client\node_modules\browserslist\node.js133660630798271261 0
 59C:\Users\zek\Desktop\myFlix-client\node_modules\safe-buffer133660630795661238 1
-68C:\Users\zek\Desktop\myFlix-client\node_modules\weak-lru-cache\tests133660630797231222 1
-79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\LY.js133660630840641231 0
 86C:\Users\zek\Desktop\myFlix-client\node_modules\react-dom\umd\react-dom.development.js133660624921792254 0
 101C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\css-repeating-gradients.js133660630832761230 0
 52C:\Users\zek\Desktop\myFlix-client\node_modules\sass133660630821501236 1
+79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\LY.js133660630840641231 0
+68C:\Users\zek\Desktop\myFlix-client\node_modules\weak-lru-cache\tests133660630797231222 1
 72C:\Users\zek\Desktop\myFlix-client\node_modules\glob-parent\package.json133660630792721239 0
 57C:\Users\zek\Desktop\myFlix-client\node_modules\scheduler133660624918672237 1
 54C:\Users\zek\Desktop\myFlix-client\node_modules\semver133660630816521243 1
@@ -349,10 +312,6 @@
 89C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\css3-colors.js133660630833951247 0
 81C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\src\applyRuntimes.js133660630809371225 0
 84C:\Users\zek\Desktop\myFlix-client\node_modules\react-is\cjs\react-is.development.js133666778547912662 0
-<<<<<<< HEAD
-=======
-79C:\Users\zek\Desktop\myFlix-client\node_modules\weak-lru-cache\rollup.config.js133660630796081225 0
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
 84C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\profiler\test\Tracer.test.js133660630803811246 0
 79C:\Users\zek\Desktop\myFlix-client\node_modules\weak-lru-cache\rollup.config.js133660630796081225 0
 77C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr-extract\package.json133660630797541243 0
@@ -392,11 +351,7 @@
 71C:\Users\zek\Desktop\myFlix-client\node_modules\utility-types\README.md133660630805801221 0
 73C:\Users\zek\Desktop\myFlix-client\node_modules\utility-types\SECURITY.md133660630806801236 0
 76C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\watcher\package.json133660630795801232 0
-<<<<<<< HEAD
-62C:\Users\zek\Desktop\myFlix-client\dist\index.2212206d.css.map133671116464169350 0
-=======
-62C:\Users\zek\Desktop\myFlix-client\dist\index.2212206d.css.map133666801475514815 0
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
+62C:\Users\zek\Desktop\myFlix-client\dist\index.2212206d.css.map133672021976461579 0
 71C:\Users\zek\Desktop\myFlix-client\node_modules\node-releases\README.md133660630797911247 0
 73C:\Users\zek\Desktop\myFlix-client\node_modules\node-addon-api\LICENSE.md133660630808801242 0
 122C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133660630797481229 0
@@ -522,7 +477,7 @@
 78C:\Users\zek\Desktop\myFlix-client\node_modules\source-map-js\lib\array-set.js133660630791421239 0
 79C:\Users\zek\Desktop\myFlix-client\node_modules\source-map-js\lib\base64-vlq.js133660630793201227 0
 92C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\object-entries.js133660630842461247 0
-48C:\Users\zek\Desktop\myFlix-client\dist\index.js133665541171785948 0
+48C:\Users\zek\Desktop\myFlix-client\dist\index.js133672021977015046 0
 79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\FR.js133660630836521227 0
 83C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\alt-ww.js133660630810611256 0
 75C:\Users\zek\Desktop\myFlix-client\node_modules\source-map-js\lib\base64.js133660630794891243 0
@@ -532,16 +487,6 @@
 82C:\Users\zek\Desktop\myFlix-client\node_modules\source-map-js\lib\binary-search.js133660630796121232 0
 81C:\Users\zek\Desktop\myFlix-client\node_modules\source-map-js\lib\mapping-list.js133660630797471229 0
 76C:\Users\zek\Desktop\myFlix-client\node_modules\ordered-binary\tests\test.js133660630799011222 0
-<<<<<<< HEAD
-57C:\Users\zek\Desktop\myFlix-client\dist\index.b4b6dfad.js133671116464319419 0
-=======
-57C:\Users\zek\Desktop\myFlix-client\dist\index.b4b6dfad.js133666804413670531 0
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
-94C:\Users\zek\Desktop\myFlix-client\node_modules\electron-to-chromium\full-chromium-versions.js133660630794221248 0
-79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\YT.js133660630849121234 0
-89C:\Users\zek\Desktop\myFlix-client\node_modules\react-dom\umd\react-dom.production.min.js133660624922482230 0
-79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\MP.js133660630841601248 0
-79C:\Users\zek\Desktop\myFlix-client\node_modules\source-map-js\lib\quick-sort.js133660630799221236 0
 73C:\Users\zek\Desktop\myFlix-client\node_modules\source-map-js\lib\util.js133660630804841227 0
 101C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\font-variant-alternates.js133660630836341228 0
 110C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json133660630831331234 0
@@ -761,7 +706,6 @@
 78C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\dist\index.min.js.map133660630817401238 0
 80C:\Users\zek\Desktop\myFlix-client\node_modules\react\umd\react.profiling.min.js133660624919272240 0
 58C:\Users\zek\Desktop\myFlix-client\node_modules\sass\types133660630825721235 1
-71C:\Users\zek\Desktop\myFlix-client\node_modules\sass\types\compile.d.ts133660630823261230 0
 90C:\Users\zek\Desktop\myFlix-client\node_modules\lmdb\node_modules\node-addon-api\nothing.c133660630788491223 0
 90C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\border-image.js133660630825411237 0
 76C:\Users\zek\Desktop\myFlix-client\node_modules\sass\types\deprecations.d.ts133660630823401244 0
@@ -776,7 +720,7 @@
 105C:\Users\zek\Desktop\myFlix-client\node_modules\react-dom\cjs\react-dom-server-legacy.node.development.js133660624918732236 0
 79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\ZW.js133660630849211241 0
 64C:\Users\zek\Desktop\myFlix-client\node_modules\sass\types\value133660630825971224 1
-53C:\Users\zek\Desktop\myFlix-client\dist\index.css.map133665541171205884 0
+53C:\Users\zek\Desktop\myFlix-client\dist\index.css.map133672021976814335 0
 83C:\Users\zek\Desktop\myFlix-client\node_modules\sass\types\value\argument_list.d.ts133660630821701229 0
 90C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\utils\test\input\config\empty.json133660630823921240 0
 87C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\utils\test\prettifyTime.test.js133660630819361238 0
@@ -800,17 +744,6 @@
 97C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\background-img-opts.js133660630820261248 0
 61C:\Users\zek\Desktop\myFlix-client\dist\index.a83944bd.js.map133660644804060980 0
 75C:\Users\zek\Desktop\myFlix-client\node_modules\sass\types\value\mixin.d.ts133660630825391238 0
-76C:\Users\zek\Desktop\myFlix-client\node_modules\sass\types\value\number.d.ts133660630825501234 0
-<<<<<<< HEAD
-61C:\Users\zek\Desktop\myFlix-client\dist\index.b4b6dfad.js.map133671116464501372 0
-=======
-61C:\Users\zek\Desktop\myFlix-client\dist\index.b4b6dfad.js.map133666804414160543 0
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
-64C:\Users\zek\Desktop\myFlix-client\node_modules\chalk\index.d.ts133660630799691226 0
-93C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\permissions-api.js133660630843151227 0
-67C:\Users\zek\Desktop\myFlix-client\node_modules\micromatch\index.js133660630791161228 0
-95C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133660630831701236 0
-88C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\indexeddb2.js133660630838001227 0
 70C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\logger\LICENSE133660630788561237 0
 76C:\Users\zek\Desktop\myFlix-client\node_modules\electron-to-chromium\LICENSE133660630788491223 0
 76C:\Users\zek\Desktop\myFlix-client\node_modules\sass\types\value\string.d.ts133660630826001223 0
@@ -1012,13 +945,13 @@
 68C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr-extract\src133660630791091242 1
 123C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json133660630813641248 0
 79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\DO.js133660630834801246 0
-75C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\agents.js133660630805051221 0
-77C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\profiler\package.json133660630805791220 0
 77C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\cache\lib\IDBCache.js133660630801271238 0
 68C:\Users\zek\Desktop\myFlix-client\node_modules\picocolors\README.md133660630795531243 0
-74C:\Users\zek\Desktop\myFlix-client\node_modules\ordered-binary\.nyc_output133660630801251218 1
-79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\LV.js133660630840621245 0
+77C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\profiler\package.json133660630805791220 0
+75C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\agents.js133660630805051221 0
 67C:\Users\zek\Desktop\myFlix-client\node_modules\picocolors\types.ts133660630797951238 0
+79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\LV.js133660630840621245 0
+74C:\Users\zek\Desktop\myFlix-client\node_modules\ordered-binary\.nyc_output133660630801251218 1
 69C:\Users\zek\Desktop\myFlix-client\node_modules\ordered-binary\assets133660630804691242 1
 71C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\source-map\dist133660630808331244 1
 67C:\Users\zek\Desktop\myFlix-client\node_modules\ordered-binary\dist133660630791091242 1
@@ -1084,7 +1017,6 @@
 74C:\Users\zek\Desktop\myFlix-client\node_modules\node-releases\package.json133660630794551232 0
 66C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\plugin\lib133660630791691241 1
 76C:\Users\zek\Desktop\myFlix-client\node_modules\node-releases\data\processed133660630791551256 1
-64C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\LICENSE133660630788531240 0
 94C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\wasm-multi-value.js133660630847921256 0
 105C:\Users\zek\Desktop\myFlix-client\node_modules\node-releases\data\release-schedule\release-schedule.json133660630796661229 0
 87C:\Users\zek\Desktop\myFlix-client\node_modules\node-gyp-build-optional-packages\bin.js133660630791131234 0
@@ -1150,18 +1082,13 @@
 78C:\Users\zek\Desktop\myFlix-client\node_modules\electron-to-chromium\README.md133660630807051228 0
 97C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\css-optional-pseudo.js133660630832281242 0
 69C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\benchmark.md133660630823441233 0
-<<<<<<< HEAD
+64C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\LICENSE133660630788531240 0
 70C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\node-index.js133660630807651244 0
-=======
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
 85C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\lib\public\Dependency.js133660630820201216 0
 64C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\pack.js133660630807971235 0
 67C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\pack.d.cts133660630801771232 0
 66C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\pack.d.ts133660630824131236 0
-<<<<<<< HEAD
 66C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\README.md133660630823611231 0
-=======
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
 73C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\rollup.config.js133660630808341227 0
 68C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\SECURITY.md133660630823811254 0
 66C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\struct.js133660630809341222 0
@@ -1185,11 +1112,6 @@
 74C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\dist\index.js.map133660630814851238 0
 69C:\Users\zek\Desktop\myFlix-client\node_modules\chokidar\package.json133660630799011222 0
 70C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\dist\node.cjs133660630796971240 0
-<<<<<<< HEAD
-=======
-144C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\package.json133660630831761241 0
-79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\MA.js133660630840671225 0
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
 73C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\dist\test.js.map133660630820651225 0
 84C:\Users\zek\Desktop\myFlix-client\node_modules\msgpackr\dist\unpack-no-eval.cjs.map133660630822781241 0
 63C:\Users\zek\Desktop\myFlix-client\node_modules\json5\README.md133660630806171217 0
@@ -1246,8 +1168,8 @@
 64C:\Users\zek\Desktop\myFlix-client\node_modules\lmdb\SECURITY.md133660630829191236 0
 61C:\Users\zek\Desktop\myFlix-client\node_modules\lmdb\write.js133660630828591234 0
 84C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\lib\UncommittedAsset.js133660630830291235 0
-67C:\Users\zek\Desktop\myFlix-client\node_modules\@swc\types\index.js133660630797531227 0
 68C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\profiler\lib133660630807891242 1
+67C:\Users\zek\Desktop\myFlix-client\node_modules\@swc\types\index.js133660630797531227 0
 74C:\Users\zek\Desktop\myFlix-client\node_modules\lmdb\util\RangeIterable.js133660630828341236 0
 79C:\Users\zek\Desktop\myFlix-client\node_modules\lmdb\util\set-optional-deps.cjs133660630823951235 0
 91C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\workers\src\threads\ThreadsChild.js133660630813381230 0
@@ -1579,11 +1501,6 @@
 82C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\dist\lib\supported.js133660630846101229 0
 77C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\browsers.js133660630825751219 0
 84C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\browserVersions.js133660630825851232 0
-<<<<<<< HEAD
-=======
-79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\MX.js133660630841951243 0
-74C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features133660630849181234 1
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
 73C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions133660630849201232 1
 86C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\utils\src\isDirectoryInside.js133660630816061235 0
 79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\AE.js133660630802421235 0
@@ -1660,6 +1577,7 @@
 79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\LI.js133660630840181244 0
 96C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\features\html-media-capture.js133660630837501234 0
 79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\LS.js133660630840541241 0
+79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\LU.js133660630840601243 0
 144C:\Users\zek\Desktop\myFlix-client\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\package.json133660630831761241 0
 79C:\Users\zek\Desktop\myFlix-client\node_modules\caniuse-lite\data\regions\MA.js133660630840671225 0
 71C:\Users\zek\Desktop\myFlix-client\node_modules\browserslist\index.d.ts133660630803801241 0
@@ -2667,10 +2585,5 @@
 79C:\Users\zek\Desktop\myFlix-client\node_modules\.bin\update-browserslist-db.ps1133660630849911231 0
 58C:\Users\zek\Desktop\myFlix-client\dist\index.34aef47b.css133660630875918609 0
 62C:\Users\zek\Desktop\myFlix-client\dist\index.34aef47b.css.map133660630876058456 0
-<<<<<<< HEAD
-50C:\Users\zek\Desktop\myFlix-client\dist\index.html133671116464521171 0
-=======
-49C:\Users\zek\Desktop\myFlix-client\dist\index.css133665541171155902 0
-52C:\Users\zek\Desktop\myFlix-client\dist\index.js.map133665541172005906 0
-50C:\Users\zek\Desktop\myFlix-client\dist\index.html133666801475394864 0
->>>>>>> 10774e69875ba6473bcde4f4dee7dd4e695a25fb
+49C:\Users\zek\Desktop\myFlix-client\dist\index.css133672021976801209 0
+52C:\Users\zek\Desktop\myFlix-client\dist\index.js.map133672021977186614 0
