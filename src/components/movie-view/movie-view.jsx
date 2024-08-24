@@ -1,4 +1,8 @@
 import React from "react";
+import { Button, Container, Image } from "react-bootstrap";
+import Row from "react-bootstrap/Row";
+import Col from 'react-bootstrap/Col'
+
 
 export const MovieView = ({ movie, onBackClick }) => {
   if (!movie) {
@@ -6,34 +10,45 @@ export const MovieView = ({ movie, onBackClick }) => {
   }
 
   return (
-    <div>
-      <div>
-        <img src={movie.image} alt={movie.title} />
-      </div>
-      <div>
-        <span>Title: </span>
-        <span>{movie.title}</span>
-      </div>
-      <div>
-        <span>Description: </span>
-        <span>{movie.description}</span>
-      </div>
-       <div>
-        <span>Genre: </span>
-        <span>{movie.genre.name}</span><div>
-        <span>{movie.genre.description}</span>
-      </div>
-      </div>
-      <div>
-        <span>Director: </span>
-        <span>{movie.director.name}</span>
-         <span>{movie.director.bio}</span>
-      </div>
-      <div>
-        <span>Feature: </span>
-        <span>{movie.isFeatured}</span>
-      </div>
-       <button onClick={onBackClick}>Back</button>
-    </div>
+      <Container>
+      <Row className="mb-4">
+        <Col md={8} lg={6}>
+          <Image className="full-width-img" src={movie.image_url} alt={movie.title} fluid />
+        </Col>
+      </Row>
+      <Row className="mb-2">
+        <Col md={3} className="font-weight-bold text-right">Title:</Col>
+        <Col md={9}>{movie.title}</Col>
+      </Row>
+      <Row className="mb-2">
+        <Col md={3} className="font-weight-bold text-right">Description:</Col>
+        <Col md={9}>{movie.description}</Col>
+      </Row>
+      <Row className="mb-2">
+        <Col md={3} className="font-weight-bold text-right">Genre:</Col>
+        <Col md={9}>{movie.genre.name}</Col>
+      </Row>
+      <Row className="mb-2">
+        <Col md={3} className="font-weight-bold text-right"></Col>
+        <Col md={9}><em>{movie.genre.description}</em></Col>
+      </Row>
+      <Row className="mb-2">
+        <Col md={3} className="font-weight-bold text-right">Director:</Col>
+        <Col md={9}>{movie.director.name}</Col>
+      </Row>
+      <Row className="mb-2">
+        <Col md={3} className="font-weight-bold text-right"></Col>
+        <Col md={9}><em>{movie.director.bio}</em></Col>
+      </Row>
+      <Row className="mb-2">
+        <Col md={3} className="font-weight-bold text-right">Feature:</Col>
+        <Col md={9}>{movie.isFeatured ? 'Yes' : 'No'}</Col>
+      </Row>
+      <Row className="mt-4">
+        <Col md={{ span: 6, offset: 3 }} className="text-center">
+          <Button variant="primary" onClick={onBackClick}>Back</Button>
+        </Col>
+      </Row>
+    </Container>
   );
 };
