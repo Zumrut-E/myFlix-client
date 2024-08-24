@@ -18,6 +18,8 @@ export const SignUpView = () => {
       birthday: birthday,
     };
 
+    console.log(data);
+
     fetch("https://myflix2024-e1c9b1faca45.herokuapp.com/users", {
       method: "POST",
       body: JSON.stringify(data),
@@ -25,6 +27,8 @@ export const SignUpView = () => {
         "Content-Type": "application/json",
       },
     }).then((response) => {
+    console.log('Response status:', response.status);
+    console.log('Response body:', response);
       if (response.ok) {
         alert("Signup successful");
         window.location.reload();
